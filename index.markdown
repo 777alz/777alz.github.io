@@ -4,3 +4,4 @@
 
 layout: home
 ---
+{% include social-media-links.html %}

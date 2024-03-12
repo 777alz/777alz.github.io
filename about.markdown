@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
+shokora
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[youtube][youtube]
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[youtube]: https://youtube.com/@shokoraa
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[discord][discord]
 
+[discord]: https://discord.gg/Xw7vGR8ctZ
 
-[jekyll-organization]: https://github.com/jekyll
+[steam][steam]
+
+[steam]: https://steamcommunity.com/id/shokoraaa
